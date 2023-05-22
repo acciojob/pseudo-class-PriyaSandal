@@ -2,11 +2,11 @@
 	p::before{
 	content:"Before Element";
 	color:red;
-	Font-size:large;
+/* 	Font-size:large; */
 	}
 
 	p::after{
 	content:"After Element";
 	color:red;
-	Font-size:large;
+/* 	Font-size:large; */
 	}
